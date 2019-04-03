@@ -6,7 +6,7 @@ import { HttpClient, HttpHeaders, HttpErrorResponse } from '@angular/common/http
 import { ClienteProvider } from '../cliente.service';
 import { AngularFireStorage, AngularFireStorageReference } from '@angular/fire/storage';
 import { Observable } from 'rxjs';
-import { ConsoleReporter } from 'jasmine';
+// import { ConsoleReporter } from 'jasmine';
 
 // import { MessageService } from '../message/message.service';
 // import { ConsoleReporter } from 'jasmine';
