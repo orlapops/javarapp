@@ -1,34 +1,27 @@
 {
     "project_info": {
-        "project_number": "22671254985",
-        "firebase_url": "https://netsolin-49ea4.firebaseio.com",
-        "project_id": "netsolin-49ea4",
-        "storage_bucket": "netsolin-49ea4.appspot.com"
+        "project_number": "830621143297",
+        "firebase_url": "https://netsolinapp.firebaseio.com",
+        "project_id": "netsolinapp",
+        "storage_bucket": "netsolinapp.appspot.com"
     },
     "client": [{
         "client_info": {
-            "mobilesdk_app_id": "1:22671254985:android:2cce1d5fbb4e1609",
+            "mobilesdk_app_id": "1:830621143297:android:90bd0c2a911480b2",
             "android_client_info": {
                 "package_name": "appjavar.com.netsolin"
             }
         },
-        "oauth_client": [{
-            "client_id": "22671254985-l1cs1012ei1k5mme51nl533ih4t08tf7.apps.googleusercontent.com",
-            "client_type": 3
-        }],
+        "oauth_client": [],
         "api_key": [{
-            "current_key": "AIzaSyDKeuOHaEZ4YOa6WKwarECJguC_uF3zM2w"
+            "current_key": "AIzaSyAoW37RegQnFu7987gc1GyQ_DuZ7L7pQa0"
         }],
         "services": {
-            "analytics_service": {
-                "status": 1
-            },
             "appinvite_service": {
-                "status": 1,
-                "other_platform_oauth_client": []
-            },
-            "ads_service": {
-                "status": 2
+                "other_platform_oauth_client": [{
+                    "client_id": "830621143297-kntqln30ef27u1g079dq6105l6p7avdu.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
             }
         }
     }],
